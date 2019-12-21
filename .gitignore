@@ -1,0 +1,17 @@
+# IntelliJ project files
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+
+# Java
+*.class
+*.war
+*.ear
+*.nar
+hs_err_pid*
